@@ -1,4 +1,6 @@
+using Unity.VectorGraphics;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PMovement : MonoBehaviour
 {
@@ -43,5 +45,14 @@ public class PMovement : MonoBehaviour
     private void FixedUpdate()
     {
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.transform.tag == "villan")
+        {
+            Debug.Log("Game Over");
+            SceneManager.LoadScene("GOScene");
+        }
     }
 }

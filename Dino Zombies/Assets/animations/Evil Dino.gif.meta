@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 2e15a93e0136189499cd8e37cc17ef84
+guid: 9949035915c481445bb6bb2e01a13874
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 770483898889822312
-    second: Dino piskel MC (1)_0
-  - first:
-      213: -6312514419000764915
-    second: Dino piskel MC (1)_1
-  - first:
-      213: -4103696053820519731
-    second: Dino piskel MC (1)_2
-  - first:
-      213: 5739625705882300593
-    second: Dino piskel MC (1)_3
+      213: -7841906620047632905
+    second: Evil Dino_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -135,89 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dino piskel MC (1)_0
+      name: Evil Dino_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 840
-        width: 840
-        height: 840
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8606c7a160f41ba00800000000000000
-      internalID: 770483898889822312
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dino piskel MC (1)_1
-      rect:
-        serializedVersion: 2
-        x: 840
-        y: 840
-        width: 840
-        height: 840
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d069defb4917568a0800000000000000
-      internalID: -6312514419000764915
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dino piskel MC (1)_2
-      rect:
-        serializedVersion: 2
-        x: 0
+        x: 259
         y: 0
-        width: 840
-        height: 840
+        width: 322
+        height: 801
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dca0bdd6e2ebc07c0800000000000000
-      internalID: -4103696053820519731
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dino piskel MC (1)_3
-      rect:
-        serializedVersion: 2
-        x: 840
-        y: 0
-        width: 840
-        height: 840
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b0b0de6b2f37af40800000000000000
-      internalID: 5739625705882300593
+      spriteID: 7f5d64e2a73fb2390800000000000000
+      internalID: -7841906620047632905
       vertices: []
       indices: 
       edges: []
@@ -226,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d85af96184524074298af289300a0147
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -234,14 +159,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":840.0,"y":840.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Dino piskel MC (1)_0: 770483898889822312
-      Dino piskel MC (1)_1: -6312514419000764915
-      Dino piskel MC (1)_2: -4103696053820519731
-      Dino piskel MC (1)_3: 5739625705882300593
+      Evil Dino_0: -7841906620047632905
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,19 +1,34 @@
 fileFormatVersion: 2
-guid: 2e15a93e0136189499cd8e37cc17ef84
+guid: d08cb16d53d96e740ab51fcf16dddd8c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 770483898889822312
-    second: Dino piskel MC (1)_0
+      213: -3442273424303929756
+    second: shot_0
   - first:
-      213: -6312514419000764915
-    second: Dino piskel MC (1)_1
+      213: -8693626627371297528
+    second: shot_1
   - first:
-      213: -4103696053820519731
-    second: Dino piskel MC (1)_2
+      213: 3672040835389170464
+    second: shot_2
   - first:
-      213: 5739625705882300593
-    second: Dino piskel MC (1)_3
+      213: 553270878059549554
+    second: shot_3
+  - first:
+      213: 2429345714354568987
+    second: shot_4
+  - first:
+      213: -4081962427503809690
+    second: shot_5
+  - first:
+      213: 5953100109242461959
+    second: shot_6
+  - first:
+      213: -7920939574404235073
+    second: shot_7
+  - first:
+      213: 1658044956979259428
+    second: shot_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -135,89 +150,199 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dino piskel MC (1)_0
+      name: shot_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 840
-        width: 840
-        height: 840
+        x: 1249
+        y: 1619
+        width: 12
+        height: 12
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8606c7a160f41ba00800000000000000
-      internalID: 770483898889822312
+      spriteID: 466c89cfe869a30d0800000000000000
+      internalID: -3442273424303929756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dino piskel MC (1)_1
+      name: shot_1
       rect:
         serializedVersion: 2
-        x: 840
-        y: 840
-        width: 840
-        height: 840
+        x: 379
+        y: 1069
+        width: 82
+        height: 522
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d069defb4917568a0800000000000000
-      internalID: -6312514419000764915
+      spriteID: 80518a9a4a80a5780800000000000000
+      internalID: -8693626627371297528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dino piskel MC (1)_2
+      name: shot_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 840
-        height: 840
+        x: 1219
+        y: 1589
+        width: 22
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dca0bdd6e2ebc07c0800000000000000
-      internalID: -4103696053820519731
+      spriteID: 023a91a3fa5b5f230800000000000000
+      internalID: 3672040835389170464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dino piskel MC (1)_3
+      name: shot_3
       rect:
         serializedVersion: 2
-        x: 840
-        y: 0
-        width: 840
-        height: 840
+        x: 1279
+        y: 1589
+        width: 22
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b0b0de6b2f37af40800000000000000
-      internalID: 5739625705882300593
+      spriteID: 273de47aeec9da700800000000000000
+      internalID: 553270878059549554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot_4
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1059
+        width: 82
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fb8b45e05c6b120800000000000000
+      internalID: 2429345714354568987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot_5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 759
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66be422acc4f957c0800000000000000
+      internalID: -4081962427503809690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 759
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f6cbb2209ad9250800000000000000
+      internalID: 5953100109242461959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot_7
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 219
+        width: 82
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb04d4c8c6b231290800000000000000
+      internalID: -7920939574404235073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shot_8
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 229
+        width: 82
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428606a8a1f820710800000000000000
+      internalID: 1658044956979259428
       vertices: []
       indices: 
       edges: []
@@ -226,7 +351,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d85af96184524074298af289300a0147
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -234,14 +359,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":840.0,"y":840.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      Dino piskel MC (1)_0: 770483898889822312
-      Dino piskel MC (1)_1: -6312514419000764915
-      Dino piskel MC (1)_2: -4103696053820519731
-      Dino piskel MC (1)_3: 5739625705882300593
+      shot_0: -3442273424303929756
+      shot_1: -8693626627371297528
+      shot_2: 3672040835389170464
+      shot_3: 553270878059549554
+      shot_4: 2429345714354568987
+      shot_5: -4081962427503809690
+      shot_6: 5953100109242461959
+      shot_7: -7920939574404235073
+      shot_8: 1658044956979259428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
