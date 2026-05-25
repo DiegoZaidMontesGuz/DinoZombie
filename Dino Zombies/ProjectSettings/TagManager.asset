@@ -51,6 +51,15 @@ TagManager:
   - name: 3
     uniqueID: 2369254639
     locked: 0
+  - name: 4
+    uniqueID: 1032580453
+    locked: 0
+  - name: 5
+    uniqueID: 3372668103
+    locked: 0
+  - name: 6
+    uniqueID: 2148759377
+    locked: 0
   m_RenderingLayers:
   - Default
   m_MigratedRenderPipelines: []
