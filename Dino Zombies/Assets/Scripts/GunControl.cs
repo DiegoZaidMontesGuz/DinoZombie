@@ -1,8 +1,13 @@
+using TMPro;
 using UnityEngine;
 
 public class GunControl : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    private int bullets = 5;
+    public GameObject bullet;
+    public TextMeshProUGUI textMeshPro;
+    int papa = 0;
     void Start()
     {
         
@@ -24,6 +29,22 @@ public class GunControl : MonoBehaviour
 
         transform.rotation =
             Quaternion.Euler(0f, 0f, angle - 90f);
+        if (Input.GetMouseButtonDown(0))
+        {
+
+            
+            Debug.Log("pap" + papa);
+
+            if (bullets > 0)
+            {
+                GameObject a = Instantiate(bullet, transform);
+                a.transform.parent = null;
+                bullets--;
+                textMeshPro.text = bullets.ToString();
+
+            }
+            
+        }
 
     }
 }

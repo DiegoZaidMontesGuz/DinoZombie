@@ -54,5 +54,10 @@ public class PMovement : MonoBehaviour
             Debug.Log("Game Over");
             SceneManager.LoadScene("GOScene");
         }
+
+        if (collision.transform.tag == "Finish")
+        {
+            SceneManager.LoadScene("Congradulations");
+        }
     }
 }

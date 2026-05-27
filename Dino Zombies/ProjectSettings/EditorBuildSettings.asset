@@ -9,7 +9,16 @@ EditorBuildSettings:
     path: Assets/Scenes/MainScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 103d763fa9bc75348847c0bb406bf6b3
+  - enabled: 1
     path: Assets/Scenes/GOScene.unity
     guid: 74525decd3ddba44296b16de3f378baa
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 023d0b5616ed3a94a8784f4089158a50
+  - enabled: 1
+    path: Assets/Scenes/Congradulations.unity
+    guid: 49bcf39b37668f44d98620e754e451c6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
